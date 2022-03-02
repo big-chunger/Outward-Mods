@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SL_Recipe xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <UID>david.fireparticle</UID>
+    <StationType>Alchemy</StationType>
+    <Ingredients>
+        <Ingredient>
+            <Type>AddSpecificIngredient</Type>
+            <Ingredient_ItemID>6600200</Ingredient_ItemID>
+        </Ingredient>
+        <Ingredient>
+            <Type>AddSpecificIngredient</Type>
+            <Ingredient_ItemID>6600040</Ingredient_ItemID>
+        </Ingredient>
+        <Ingredient>
+            <Type>AddSpecificIngredient</Type>
+            <Ingredient_ItemID>4300020</Ingredient_ItemID>
+        </Ingredient>
+    </Ingredients>
+    <Results>
+        <ItemQty>
+            <ItemID>6000110</ItemID>
+            <Quantity>2</Quantity>
+        </ItemQty>
+    </Results>
+</SL_Recipe>

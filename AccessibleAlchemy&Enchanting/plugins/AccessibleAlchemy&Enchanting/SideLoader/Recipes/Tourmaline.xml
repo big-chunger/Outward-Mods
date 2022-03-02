@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SL_Recipe xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <UID>david.tourmaline</UID>
+    <StationType>Alchemy</StationType>
+    <Ingredients>
+        <Ingredient>
+            <Type>AddGenericIngredient</Type>
+            <SelectorValue>Elemental Particle</SelectorValue>
+        </Ingredient>
+        <Ingredient>
+            <Type>AddGenericIngredient</Type>
+            <SelectorValue>Elemental Particle</SelectorValue>
+        </Ingredient>
+        <Ingredient>
+            <Type>AddSpecificIngredient</Type>
+            <Ingredient_ItemID>5600000</Ingredient_ItemID>
+        </Ingredient>
+    </Ingredients>
+    <Results>
+        <ItemQty>
+            <ItemID>6200120</ItemID>
+            <Quantity>1</Quantity>
+        </ItemQty>
+    </Results>
+</SL_Recipe>
